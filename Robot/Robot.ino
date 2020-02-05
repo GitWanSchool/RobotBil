@@ -12,7 +12,7 @@
  * Här definerar ni funktioner.
  * Lägg till funktioner och namnge dom logiskt.
  */
-SoftwareSerial Serial1(SOFTSERIAL_RX, SOFTSERIAL_TX);
+SoftwareSerial Serial1(SOFTSERIAL_TX, SOFTSERIAL_RX);
 
 void initPins();
 void blinkStatusLed(int del);

@@ -15,7 +15,7 @@
 #define STATUS_LED 13
 
 // Wifi
-#define SOFTSERIAL_RX 6
+#define SOFTSERIAL_TX 6
 #define SOFTSERIAL_RX 7
 #define SOFTSERIAL_BAUDRATE 9600
 #define SERVER_PORT 8080
